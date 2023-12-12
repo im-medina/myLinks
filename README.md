@@ -1,11 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🚀 Tecnologias
 
@@ -16,11 +13,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+<a href="https://im-medina.github.io/myLinks/">Acesse aqui</a>
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-## :memo: Licença
+## 📜 Licença
 
 Esse projeto está sob a licença MIT.
 
